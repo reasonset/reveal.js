@@ -21,6 +21,18 @@ The full reveal.js documentation is available at [revealjs.com](https://revealjs
 ## Online Editor
 Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
 
+## オリジナルとの違い
+
+この `rukamodJP` ブランチは、日本語でReveal.jsを使う上で支障となる部分を調整したテーマを追加したものである。
+
+以下のテーマが追加されている。
+
+|テーマ|ベーステーマ|特徴|
+|-------|-------|-----------------|
+|rucolor|league|グレーのダークテーマ, 普段使っているもの|
+|rucolorLight|white|明るいテーマ, 公式な場で使っているもの|
+|rucolorNavy|night|ダークテーマ, プロジェクター向け|
+
 ## License
 
 MIT licensed
